@@ -1,14 +1,11 @@
 [
   {
+    "package": "swissknife"
+  },
+  {
+    "package": "griph"
+  },
+  {
     "package": "eisaR"
-  },
-  {
-    "package": "monaLisa"
-  },
-  {
-    "package": "Rbowtie"
-  },
-  {
-    "package": "Rhisat2"
   }
 ]
