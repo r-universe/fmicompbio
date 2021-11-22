@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "eisaR"]
+	path = eisaR
+	url = https://github.com/fmicompbio/eisar
+	shallow = true
+	registered = true
+[submodule "monaLisa"]
+	path = monaLisa
+	url = https://github.com/fmicompbio/monalisa
+	shallow = true
+	registered = true
+[submodule "Rbowtie"]
+	path = Rbowtie
+	url = https://github.com/fmicompbio/rbowtie
+	shallow = true
+	registered = true
+[submodule "Rhisat2"]
+	path = Rhisat2
+	url = https://github.com/fmicompbio/rhisat2
+	shallow = true
+	registered = true
