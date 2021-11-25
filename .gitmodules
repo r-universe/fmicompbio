@@ -10,7 +10,7 @@
 	registered = true
 [submodule "griph"]
 	path = griph
-	url = https://github.com/fmicompbio/griph/tree/master/griph
+	url = https://github.com/fmicompbio/griph
 	shallow = true
 	registered = true
 [submodule "eisaR"]
