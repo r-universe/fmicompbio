@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/fmicompbio/universe
-	shallow = true
 	branch = HEAD
-[submodule "swissknife"]
-	path = swissknife
-	url = https://github.com/fmicompbio/swissknife
-	shallow = true
-	registered = true
-[submodule "griph"]
-	path = griph
-	url = https://github.com/fmicompbio/griph
-	shallow = true
-	registered = true
 [submodule "eisaR"]
 	path = eisaR
 	url = https://github.com/fmicompbio/eisaR
-	shallow = true
-	registered = true
+[submodule "griph"]
+	path = griph
+	url = https://github.com/fmicompbio/griph
+[submodule "swissknife"]
+	path = swissknife
+	url = https://github.com/fmicompbio/swissknife
