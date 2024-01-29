@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/fmicompbio/universe
+	url = https://github.com/fmicompbio/fmicompbio.r-universe.dev
 	branch = HEAD
 [submodule "eisaR"]
 	path = eisaR
